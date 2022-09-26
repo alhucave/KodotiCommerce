@@ -4,7 +4,7 @@ using Microsoft.Extensions.Hosting;
 
 namespace Clients.WebClient
 {
-    public class Program
+    public static class Program
     {/// <summary>
     /// prueba 2
     /// </summary>
